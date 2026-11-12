@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="E8a7wXkI8icEjCtbXS9O">
+    <mxGraphModel dx="2198" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-1" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Persona" vertex="1">
+          <mxGeometry height="40" width="100" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-6" edge="1" parent="1" source="-BstMtFw74aZ6nsNAyUY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=1.046;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;flowAnimation=0;startArrow=oval;startFill=0;endArrow=none;endFill=0;" target="-BstMtFw74aZ6nsNAyUY-1">
+          <mxGeometry relative="1" x="0.553" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-2" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Nome" vertex="1">
+          <mxGeometry height="30" width="50" x="150" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-7" edge="1" parent="1" source="-BstMtFw74aZ6nsNAyUY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endArrow=none;endFill=0;startArrow=oval;startFill=0;" target="-BstMtFw74aZ6nsNAyUY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-3" parent="1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="Cognome" vertex="1">
+          <mxGeometry height="30" width="70" x="130" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-8" edge="1" parent="1" style="endArrow=oval;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="10" width="NaN" x="NaN" y="NaN" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=light-dark(#000000,#000000);strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="228" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="-BstMtFw74aZ6nsNAyUY-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillStyle=auto;fillColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="228" y="303" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
